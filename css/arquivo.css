@@ -1,0 +1,7 @@
+.botoes{
+    text-align: center;
+    margin-top: 1.5rem;
+}
+#botao1, #botao2, #botao3{
+    cursor: pointer;
+}
